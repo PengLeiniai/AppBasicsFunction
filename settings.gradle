@@ -1,0 +1,3 @@
+rootProject.name='AppBasicsFunction'
+include ':app'
+include ':basiscsfunction'

@@ -1,0 +1,7 @@
+<resources>
+    <string name="toast_copy">复制成功</string>
+
+    <string name="error_network_anomaly">网络异常，请检查网络</string>
+    <string name="error_network_server_eorro">当前访问人数过多，请稍后再试</string>
+    <string name="error_network_outTime">当前访问人数太多啦，请稍后再试!</string>
+</resources>
